@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import os
-import sys
+import sys #this project is done by github
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "medstore.settings")
