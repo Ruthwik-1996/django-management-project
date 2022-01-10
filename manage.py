@@ -2,7 +2,7 @@
 import os
 import sys #this project is done by github
 
-if __name__ == "__main__":
+if __name__ == "__main__": #this is github
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "medstore.settings")
     try:
         from django.core.management import execute_from_command_line
