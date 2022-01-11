@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
-from pharma import views
+from pharma import views # this is gowtham
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
