@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c4cdc0c-2313-4536-af54-dc8f4855298d" name="Default" comment="Added the correct file struture">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medstore/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/medstore/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/static/pharma/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/static/pharma/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/cust.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/cust.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/custtable.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/custtable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/dealer.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/dealer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/dealertable.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/dealertable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/emp.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/emp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/emptable.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/emptable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/med.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/med.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/medtable.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/medtable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/purchase.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/purchase.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/templates/pharma/purchasetable.html" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/templates/pharma/purchasetable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharma/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pharma/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="6c4cdc0c-2313-4536-af54-dc8f4855298d" name="Default" comment="Added the correct file struture" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
