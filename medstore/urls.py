@@ -18,7 +18,7 @@ from django.contrib import admin #this is gowtham
 from pharma import views 
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
+    url(r'^admin/', admin.site.urls), #ruthwik gowtham
     url(r'^pharma/', include('pharma.urls')),
     url(r'^$', views.home, name='index'),
 ]
