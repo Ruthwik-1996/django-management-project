@@ -13,4 +13,4 @@ from django.core.wsgi import get_wsgi_application
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "medstore.settings") # hello world
 
-application = get_wsgi_application()
+application = get_wsgi_application() # hii gowtham
