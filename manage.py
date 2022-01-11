@@ -12,10 +12,10 @@ if __name__ == "__main__": #this is github
         # exceptions on Python 2.
         try:
             import django
-        except ImportError:
+        except ImportError: # happy
             raise ImportError(
                 "Couldn't import Django. Are you sure it's installed and "
-                "available on your PYTHONPATH environment variable? Did you "
+                "available on your PYTHON PATH environment variable? Did you "
                 "forget to activate a virtual environment?"
             )
         raise
